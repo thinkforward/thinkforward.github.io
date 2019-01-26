@@ -15,14 +15,13 @@ layout: default
 
 - Mar : Docker
   - Docker images for technologies
-    - 
     - Scikit learn
 
 - Apr : ML/AI Analytics
   - Potential Fraud detection
 
 
-### [Docker images for reference](https://hub.docker.com/u/thinkforward).
+![DockerHub](./DockerHub.PNG)  [Docker images for reference](https://hub.docker.com/u/thinkforward).
 
 ### Small image
 

@@ -3,7 +3,8 @@ Gem::Specification.new do |s|
   s.version       = '0.1.1'
   s.license       = 'CC0-1.0'
   s.authors       = ['Jason Long', 'GitHub, Inc.']
-
+#  s.email         = ['opensource+jekyll-theme-cayman@github.com']
+#  s.homepage      = 'https://github.com/pages-themes/cayman'
   s.summary       = 'Technology learning roadmap'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|

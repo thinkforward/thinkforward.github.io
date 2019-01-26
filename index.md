@@ -21,7 +21,7 @@ layout: default
   - Potential Fraud detection
 
 
-![DockerHub](./DockerHub.PNG)  [Docker images for reference](https://hub.docker.com/u/thinkforward).
+![Octocat](./DockerHub.png)  [Docker images for reference](https://hub.docker.com/u/thinkforward).
 
 ### Small image
 

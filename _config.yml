@@ -1,5 +1,5 @@
 title: ThinkForward.Tech
-description: ThinkForward.Tech theme.
-show_downloads: true
+# description: ThinkForward.Tech theme.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman

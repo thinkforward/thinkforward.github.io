@@ -21,8 +21,8 @@ layout: default
 - Apr : ML/AI Analytics
   - Potential Fraud detection
 
-### Docker images for reference
-[Docker images for reference](https://hub.docker.com/u/thinkforward).
+
+### [Docker images for reference](https://hub.docker.com/u/thinkforward).
 
 ### Small image
 

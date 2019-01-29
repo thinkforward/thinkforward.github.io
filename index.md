@@ -2,12 +2,14 @@
 
 - Jan : Ansible
   - Implementation
+
 - Feb : 
   - ML/AI Analytics
     - Tensor Flow
     - Scikit learn
   - Apache Kafka
     - POC & Implementation
+  - Reactive Spring
 
 - Mar : Docker
   - Docker images for technologies

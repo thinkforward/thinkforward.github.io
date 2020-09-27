@@ -18,5 +18,6 @@
 - Apr : ML/AI Analytics
   - Potential Fraud detection
 
+./docs/JavaScript_Different_ways_to_define_function.mhtml
 
 ![Octocat](./DockerHub.png)  [Docker images for reference](https://hub.docker.com/u/thinkforward)
